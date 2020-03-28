@@ -1,3 +1,8 @@
 # Machine-Learning-Course
-Here, I uploaded the Python codes to perform various machine learning algorithms. The course was on data science and
-machine learning methods using Python, and is available on LinkedIn Learning.
+
+
+Here, you will find step by step guides to build machine learning models that produce predictions and recommendations. 
+
+Specifically, you will find how to peform linear regression, logistic regression, K-means clustering, hierarchal clustering, neural networks and Bayesian models.
+
+The course was taught by Pierson on data science and machine learning methods using Python, and is available on LinkedIn Learning.
